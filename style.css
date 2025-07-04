@@ -1,0 +1,15 @@
+:root{
+    --cor-fundo: #e7eeef;
+    --cor-principal: #0bb5d3;
+    --cor-secundaria: #87d6e4;
+    --cor-destaque: #2bdefd;
+    --cor-texto: #000708;
+}
+button{
+    background-color:var(--cor-secundaria);
+    color:var(--cor-texto);
+    bonder:none;
+    bonder-radius:15px;
+    padding:15px;
+    transition:background-color 0.35;
+}
