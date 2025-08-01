@@ -11,5 +11,9 @@ button{
     bonder:none;
     bonder-radius:15px;
     padding:15px;
-    transition:background-color 0.35;
+    transition:background-color 0.3s;
+}
+button:hover {
+    background-color: var(--cor-destaque);
+    color: var(--cor-principal);
 }
