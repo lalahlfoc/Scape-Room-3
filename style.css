@@ -8,8 +8,8 @@
 button{
     background-color:var(--cor-secundaria);
     color:var(--cor-texto);
-    bonder:none;
-    bonder-radius:15px;
+    border:none;
+    border-radius:15px;
     padding:15px;
     transition:background-color 0.3s;
 }
